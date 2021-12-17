@@ -1,0 +1,47 @@
+site_name: Grant's Tech Comm Courses
+
+theme: 
+    name: material
+
+plugins: 
+    - search
+    - minify 
+
+markdown_extensions: 
+    - attr_list
+    - md_in_html
+    - admonition
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+    - Home: index.md
+    - Writing with Digital Tech: Writing with Digital Tech
+    - International Professional Communication: International Professional Communication
+    - Introduction to Graduate Studies in Scientific and Technical Communication: Introduction to Graduate Studies in Scientific and Technical Communication
+    - Editing and Style for Technical Communication: Editing and Style for Technical Communication
+    - Foundations of Computer Applications for Business and Education: Foundations of Computer Applications for Business and Education
+    - Designing and Developing Online Distance Learning: Designing and Developing Online Distance Learning
+    - Information Design, Theory and Practice: Information Design, Theory and Practice
+    - Usability and Human Factors in Technical Communication: Usability and Human Factors in Technical Communication
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
